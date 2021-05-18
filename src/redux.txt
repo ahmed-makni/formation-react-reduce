@@ -1,0 +1,3 @@
+activate redux
+-1 create balise Provider store={sotre} index.js
+2- creer file CalculReducer.js
